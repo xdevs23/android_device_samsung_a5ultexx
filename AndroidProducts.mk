@@ -1,6 +1,6 @@
-LOCAL_PATH := device/samsung/j53gxx
+LOCAL_PATH := device/samsung/a5ultexx
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/rr_j53gxx.mk \
-	$(LOCAL_DIR)/pa_j53gxx.mk \
-	$(LOCAL_DIR)/lineage_j53gxx.mk \
-	$(LOCAL_DIR)/aosp_j53gxx.mk
+	$(LOCAL_DIR)/rr_a5ultexx.mk \
+	$(LOCAL_DIR)/pa_a5ultexx.mk \
+	$(LOCAL_DIR)/lineage_a5ultexxx.mk \
+	$(LOCAL_DIR)/aosp_a5ultexx.mk
