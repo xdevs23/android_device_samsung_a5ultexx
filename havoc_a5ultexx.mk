@@ -1,12 +1,12 @@
 
 # Inherit from common
-$(call inherit-product, device/samsung/a5-common/pa.mk)
+$(call inherit-product, device/samsung/a5-common/havoc.mk)
 
 $(call inherit-product, device/samsung/a5ultexx/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := a5ultexx
-PRODUCT_NAME := pa_a5ultexx
+PRODUCT_NAME := havoc_a5ultexx
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A500FU
 PRODUCT_MANUFACTURER := samsung
